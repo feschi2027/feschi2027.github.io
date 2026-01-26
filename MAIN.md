@@ -10,7 +10,7 @@ Dear Fellow Researchers!
 
 Our dear colleague and friend David Basin is turning 65 in December 2026 and this has to be celebrated! We therefore organize a Festschrift and a Fest to celebrate his birthday and his extensive research contributions! 
 
-The Fest/celebration itself will be held as a one-day event on the 15th of January 2027 at ETH Zürich. We have already checked that David is available. 🙂 You do not have to keep it a secret - on the contrary, it is great if you share this message with anybody who might like to contribute!
+The Fest/celebration itself will be held as a one-day event on the 15th of January 2027 at ETH Zürich. We have already checked that David is available. You do not have to keep it a secret - on the contrary, it is great if you share this message with anybody who might like to contribute!
 
 We hereby cordially invite you to contribute an article to the Festschrift and present it at the Fest. We welcome contributions in all areas close to David's research and interests, including but not limited to security, privacy, formal methods, logic, automated reasoning, model checking, theorem proving, software engineering, bridge, juggling, biking and more. The articles will be lightly reviewed by the Festschrift committee, and the proceedings will be published by Springer Heidelberg in the LNCS series. David will of course love to receive a research article from you, but also short personal articles that celebrate the history and friendship with David will be very much appreciated.
 
