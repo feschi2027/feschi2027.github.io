@@ -2,7 +2,9 @@
 layout: page
 title: "Festschrift and Workshop in Honour of David Basin"
 permalink: /
+theme: jekyll-theme-minimal
 ---
+
 
 # Festschrift and Workshop in Honour of David Basin
 
