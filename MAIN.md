@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Festschrift and Workshop in Honour of David Basin"
+permalink: /
+---
+
 # Festschrift and Workshop in Honour of David Basin
 
 Dear Fellow Researchers!
