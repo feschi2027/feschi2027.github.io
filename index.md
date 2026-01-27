@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Festschrift and Workshop in Honour of David Basin"
-permalink: /
+layout: default
 ---
 
 
