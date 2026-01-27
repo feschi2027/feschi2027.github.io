@@ -33,11 +33,12 @@ There will be no participation fee for the Fest and coffee breaks, lunch, and di
 
 Please let us know if you have any questions!
 
-Best wishes
-Achim D. Brucker (University of Exeter)
-Sebastian Mödersheim (Danmarks Tekniske Universitet)
-Christoph Sprenger (ETH Zürich)
-Luca Viganò (King’s College London)
+Best wishes,
+
+* Achim D. Brucker (University of Exeter)
+* Sebastian Mödersheim (Danmarks Tekniske Universitet)
+* Christoph Sprenger (ETH Zürich)
+* Luca Viganò (King’s College London)
 
 
 
