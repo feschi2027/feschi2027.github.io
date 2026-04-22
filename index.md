@@ -29,7 +29,7 @@ There will be no participation fee for the Fest and coffee breaks, lunch, and di
   * Notification: end of June 2026 (to be confirmed)
   * Camera Ready Copy: early September 2026 (to be confirmed)
 
-
+ 
 Please let us know if you have any questions!
 
 Best wishes,
