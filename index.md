@@ -16,7 +16,7 @@ We hereby cordially invite you to contribute an article to the Festschrift and p
 
 We would like to set a deadline for submissions at the 21st of May 2026 via our submission site <https://easychair.org/conferences/?conf=feschi2027>. Articles should be formatted in Springer’s LNCS style and not exceed 5 pages for personal articles and 16 pages for scientific articles. If you have a work that you would like to contribute that does not fit into this page limit, it might be possible, but please reach out to us first. 
 
-There will be no participation fee for the Fest and coffee breaks, lunch, and dinner will be included. Travel and accommodation costs are at the expense of the participants. We are happy to provide hotel suggestions for Zürich.   
+There will be no participation fee for the Fest and coffee breaks, lunch, and dinner will be included. Travel and accommodation costs are at the expense of the participants. We are happy to provide hotel suggestions for Zürich. 
 
 ## Submission Information:
 
