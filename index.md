@@ -3,7 +3,6 @@ title: "Festschrift and Workshop in Honour of David Basin"
 layout: default
 ---
 
-
 # Festschrift and Workshop in Honour of David Basin
 
 Dear Fellow Researchers!
@@ -25,7 +24,7 @@ There will be no participation fee for the Fest and coffee breaks, lunch, and di
 * Submission: 
   <https://easychair.org/conferences/?conf=feschi2027>
 * Timeline:
-  * Submission:   21 May 2026
+  * Submission:   11 June 2026 (extended)
   * Notification: end of June 2026 (to be confirmed)
   * Camera Ready Copy: early September 2026 (to be confirmed)
 
@@ -38,7 +37,4 @@ Best wishes,
 * Sebastian Mödersheim (Danmarks Tekniske Universitet)
 * Christoph Sprenger (ETH Zürich)
 * Luca Viganò (King’s College London)
-
-
-
 
